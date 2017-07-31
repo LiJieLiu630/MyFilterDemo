@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selected_type">
+        <item>全部</item>
+        <item>电视剧</item>
+        <item>动漫</item>
+        <item>小说</item>
+        <item>今日头条</item>
+        <item>12306订票</item>
+        <item>美团</item>
+        <item>新浪.微博</item>
+        <item>爆款女装</item>
+        <item>去哪儿网</item>
+        <item>八卦</item>
+        <item>美食</item>
+        <item>招聘</item>
+    </string-array>
+</resources>
